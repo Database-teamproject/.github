@@ -57,13 +57,21 @@ ISRC / 제목 / 아티스트 기반 플랫폼 매칭
 
 | 게스트 공유 링크 접근 | 브라우저 기억 기반 자동 리다이렉트 |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/8f5cc499-57ea-4f4f-a01f-5e03ec6446c7" alt="게스트 최초 공유 링크 접근 및 리다이렉트" height="360"/> | <img src="https://github.com/user-attachments/assets/2e58d524-b8d6-4995-baeb-c2ef50025918" alt="브라우저 기억 기반 자동 리다이렉트" height="360"/> |
+| <img src="https://github.com/user-attachments/assets/8f5cc499-57ea-4f4f-a01f-5e03ec6446c7" alt="게스트 최초 공유 링크 접근 및 리다이렉트" width="360"/> | <img src="https://github.com/user-attachments/assets/2e58d524-b8d6-4995-baeb-c2ef50025918" alt="브라우저 기억 기반 자동 리다이렉트" width="360"/> |
 | 공유 링크에서 곡 정보를 확인하고 원하는 플랫폼으로 이동합니다. | 이전 선택 플랫폼을 기억해 다음 접근 시 자동으로 이동합니다. |
+
+<br/>
+
 | 로그인 및 프로필 설정 | 플랫폼 설정 |
-| <img src="https://github.com/user-attachments/assets/cafa6360-061c-4cf0-b67e-ea958dab0f01" alt="로그인 및 프로필 설정" height="360"/> | <img src="https://github.com/user-attachments/assets/68906c4c-864d-461b-9857-401eaf22e0ec" alt="플랫폼 설정" height="360"/> |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/cafa6360-061c-4cf0-b67e-ea958dab0f01" alt="로그인 및 프로필 설정" width="360"/> | <img src="https://github.com/user-attachments/assets/68906c4c-864d-461b-9857-401eaf22e0ec" alt="플랫폼 설정" width="360"/> |
 | 로그인 후 프로필을 설정해 개인화된 서비스를 사용할 수 있습니다. | 선호 플랫폼을 설정하고 자동 리디렉트를 사용할 수 있습니다. |
+
+<br/>
+
 | 통합 링크 히스토리 | 음악 링크 변환 및 공유 |
-| <img src="https://github.com/user-attachments/assets/a23a8e70-b9fb-4916-8770-7d348a0f7ce9" alt="통합 링크 히스토리 확인" height="360"/> | <img src="https://github.com/user-attachments/assets/336f921c-b138-4d75-8660-112646b41e74" alt="음악 링크 변환 및 카카오톡 공유" height="360"/> |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/a23a8e70-b9fb-4916-8770-7d348a0f7ce9" alt="통합 링크 히스토리 확인" width="360"/> | <img src="https://github.com/user-attachments/assets/336f921c-b138-4d75-8660-112646b41e74" alt="음악 링크 변환 및 카카오톡 공유" width="360"/> |
 | 생성한 통합 음악 링크를 히스토리에서 다시 사용할 수 있습니다. | 음악 링크를 PLAYONA 통합 링크로 변환해 공유할 수 있습니다. |
 
 ---
